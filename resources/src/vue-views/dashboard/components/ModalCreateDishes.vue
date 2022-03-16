@@ -179,7 +179,7 @@ export default {
         getTipology() {
             let config = {
                 method: "get",
-                url: "/api/test/typologies",
+                url: "/public/api/test/typologies",
                 headers: {
                     Accept: "application/json",
                 },
@@ -196,7 +196,7 @@ export default {
         getIntolerances() {
             let config = {
                 method: "get",
-                url: "/api/test/intolerances",
+                url: "/public/api/test/intolerances",
                 headers: {
                     Accept: "application/json",
                 },
@@ -213,7 +213,7 @@ export default {
         getIngredients() {
             let config = {
                 method: "get",
-                url: "/api/test/ingredients",
+                url: "/public/api/test/ingredients",
                 headers: {
                     Accept: "application/json",
                 },
