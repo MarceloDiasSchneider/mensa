@@ -24,7 +24,7 @@
 
 <body class="bg-c-blue-dark text-white p-5">
       <div class="d-flex align-items-center flex-column py-5">
-        <img src="{{ asset('storage/img/logo.png') }}" alt="Logo" width="150">
+        <img src="{{ asset('public/storage/img/logo.png') }}" alt="Logo" width="150">
         <div class="d-flex mt-5 py-5">
           <a href="{{ route('index') }}">
             <button type="button" class="btn mx-2 bg-white text-c-blue-dark">Home</button>
