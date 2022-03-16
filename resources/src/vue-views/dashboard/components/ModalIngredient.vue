@@ -54,7 +54,7 @@ export default {
         getIngredients() {
             let config = {
                 method: "get",
-                url: "/public/api/test/ingredients",
+                url: "/api/test/ingredients",
                 headers: {
                     Accept: "application/json",
                 },

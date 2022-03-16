@@ -88,7 +88,7 @@ export default {
         getSidebarLinks() {
             let config = {
                 method: "post",
-                url: "/public/api/test/sidebar-links",
+                url: "/api/test/sidebar-links",
                 headers: {
                     Accept: "application/json",
                 },

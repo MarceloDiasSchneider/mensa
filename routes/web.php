@@ -21,5 +21,7 @@ Route::controller(DashboardController::class)->prefix('/dashboard')->group(funct
     Route::get('/piatti', 'dishes')->name('dashboard.dishes');
 });
 Route::controller(MenuCompositionController::class)->group(function () {
+    Route::get('/', 'index')->name('index');
+    Route::get('/links', 'links')->name('links');
     Route::get('/componi-menu', 'menu_composition')->name('menu_composition');
 });

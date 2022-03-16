@@ -51,7 +51,7 @@
                     <p class="m-0">Calendario Settimanale</p>
                     <div class="d-flex">
                         <i class="bi bi-chevron-left"></i>
-                        <p class="my-0 mx-2">Questa Settimanale</p>
+                        <p class="my-0 mx-2">Questa Settimana</p>
                         <i class="bi bi-chevron-right"></i>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         <div class="d-flex justify-content-between">
                             <div class="d-flex align-items-center">
                                 <p class="h4 p-2 m-0 text-c-silver-dark">
-                                    21 Aplrile
+                                    21 Aprile
                                 </p>
                                 <p class="p-2 m-0 text-c-silver-light">
                                     Lunedì
@@ -149,7 +149,7 @@
                         <!-- duplicated date header -->
                         <div class="d-flex justify-content-between">
                             <div class="d-flex align-items-center">
-                                <p class="h4 p-2 m-0">21 Aplrile</p>
+                                <p class="h4 p-2 m-0">22 Aprile</p>
                                 <p class="p-2 m-0">Martedì</p>
                                 <i class="bi bi-caret-down-fill py-2"></i>
                                 <i class="bi bi-caret-up-fill py-2"></i>

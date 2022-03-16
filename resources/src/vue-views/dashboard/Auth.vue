@@ -1,15 +1,17 @@
 <template>
-    <nav class="navbar navbar-light bg-primary p-3">
-        <div class="container-fluid">
-            <a class="navbar-brand text-white" href="#">
-                <img
-                    src="/docs/5.0/assets/brand/bootstrap-logo.svg"
-                    alt=""
-                    width="30"
-                    height="24"
-                    class="d-inline-block align-text-top"
-                />
-                Bootstrap
+    <nav class="navbar navbar-light bg-c-blue-dark p-0 m-0">
+        <div class="container-fluid p-0 m-0">
+            <a
+                class="navbar-brand text-white p-0 mx-3 my-0 d-flex justify-content-center"
+                href="/"
+            >
+                    <img
+                        :src="src_logo"
+                        alt="logo"
+                        width="70"
+                        class="p-2"
+                    />
+                    <h1 class="h4 m-2 p-2">Mensa 0.2</h1>
             </a>
         </div>
     </nav>
@@ -201,6 +203,12 @@
 
 <script>
 export default {
+    props: {
+        src_logo: {
+            type: String,
+            required: true,
+        },
+    },
     data() {
         return {
             email: null,
@@ -247,7 +255,7 @@ export default {
 
             let config = {
                 method: "post",
-                url: "/public/api/test/login",
+                url: "/api/test/login",
                 headers: {
                     Accept: "application/json",
                 },
@@ -278,7 +286,7 @@ export default {
 
             let config = {
                 method: "post",
-                url: "/public/api/test/recovery",
+                url: "/api/test/recovery",
                 headers: {
                     Accept: "application/json",
                 },
@@ -302,7 +310,7 @@ export default {
 
             let config = {
                 method: "post",
-                url: "/public/api/test/sigin",
+                url: "/api/test/sigin",
                 headers: {
                     Accept: "application/json",
                 },

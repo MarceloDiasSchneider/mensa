@@ -138,7 +138,7 @@ export default {
         getTipology() {
             let config = {
                 method: "get",
-                url: "/public/api/test/typologies",
+                url: "/api/test/typologies",
                 headers: {
                     Accept: "application/json",
                 },

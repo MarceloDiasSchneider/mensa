@@ -5,7 +5,7 @@
 
 @section('content')
 <div id="vueAuth">
-    <Auth></Auth>
+    <Auth src_logo="{{ asset('storage/img/logo.png') }}" />
 </div>
 
 @endsection

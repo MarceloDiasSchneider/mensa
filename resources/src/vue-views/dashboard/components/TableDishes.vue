@@ -137,7 +137,7 @@ export default {
         getDishes() {
             let config = {
                 method: "get",
-                url: "/public/api/test/dishes",
+                url: "/api/test/dishes",
                 headers: {
                     Accept: "application/json",
                 },
