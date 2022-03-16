@@ -1,0 +1,78 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family: 'Anton', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+$utilities: (
+  "background-color-custom": (
+    property: background-color,
+    class: bg-c,
+    values: (
+      white-cold: rgb(250, 250, 250),
+      blue-dark: rgb(48, 55, 105),
+      blue-light-purple: rgb(102, 109, 181),
+      blue-bright: rgb(94, 136, 252),
+      blue-ligth-bright: rgb(131, 152, 252),
+      blue-light: rgb(72, 202, 228),
+      silver-blue: rgb(238, 240, 251),
+      silver-high-dark: rgb(60, 60, 60),
+      silver-soft-dark: rgb(95, 89, 80),
+      silver-dark: rgb(108, 108, 108),
+      silver-ligth: rgb(160, 160, 160),
+      silver: hsl(214, 19%, 93%),
+      green: rgb(56, 208, 108),
+      red-dark: rgb(228, 58, 72),
+      yellow: rgb(254, 215, 48),
+      orange: rgb(254, 176, 58),
+    )
+  ),
+  "background-color-custom-hover": (
+    property: background-color,
+    class: bg-ch,
+    state: hover,
+    values: (
+      white: rgba(255, 255, 255, 0.8),
+      white-cold: rgb(250, 250, 250, 0.8),
+      blue-dark: rgba(48, 55, 105, 0.8),
+      blue-light-purple: rgb(102, 109, 181, 0.8),
+      blue-bright: rgb(94, 136, 252, 0.8),
+      blue-ligth-bright: rgb(131, 152, 252, 0.8),
+      blue-light: rgb(72, 202, 228, 0.8),
+      silver-blue: rgb(238, 240, 251, 0.8),
+      silver-high-dark: rgb(60, 60, 60, 0.8),
+      silver-soft-dark: rgba(95, 89, 80, 0.8),
+      silver-dark: rgb(108, 108, 108, 0.8),
+      silver-ligth: rgb(160, 160, 160, 0.8),
+      silver: hsl(214, 19%, 93%, 0.8),
+      green: rgb(56, 208, 108, 0.8),
+      red-dark: rgb(228, 58, 72, 0.8),
+      yellow: rgb(254, 215, 48, 0.8),
+      orange: rgb(254, 176, 58, 0.8),
+    )
+  ),
+  "text-custom": (
+    property: color,
+    class: text-c,
+    values: (
+      white-cold: #fafafa,
+      blue-dark: #303768,
+      blue-light-purple: #666db5,
+      blue-bright: #5e88fc,
+      blue-ligth-bright: #8398fc,
+      blue-light: #48cae4,
+      silver-blue: #eef0fb,
+      silver-high-dark: #3c3c3c,
+      silver-soft-dark: #5f5950,
+      silver-dark: #6c6c6c,
+      silver-ligth: #a0a0a0,
+      silver: #e9ecf0,
+      green: #38d06c,
+      red-dark: #e43a48,
+      yellow: #fed730,
+      orange: #feb03a,
+    )
+  )
+ );

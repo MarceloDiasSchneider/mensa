@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/dashboard/auth.js": "/js/dashboard/auth.js",
+    "/js/dashboard/sidebar.js": "/js/dashboard/sidebar.js",
+    "/js/dashboard/calendar.js": "/js/dashboard/calendar.js",
+    "/js/dashboard/dishes.js": "/js/dashboard/dishes.js",
+    "/js/menu-composition.js": "/js/menu-composition.js",
+    "/css/app.css": "/css/app.css"
+}
