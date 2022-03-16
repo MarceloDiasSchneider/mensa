@@ -255,7 +255,7 @@ export default {
 
             let config = {
                 method: "post",
-                url: "/api/test/login",
+                url: "/public/api/test/login",
                 headers: {
                     Accept: "application/json",
                 },
@@ -286,7 +286,7 @@ export default {
 
             let config = {
                 method: "post",
-                url: "/api/test/recovery",
+                url: "/public/api/test/recovery",
                 headers: {
                     Accept: "application/json",
                 },
@@ -310,7 +310,7 @@ export default {
 
             let config = {
                 method: "post",
-                url: "/api/test/sigin",
+                url: "/public/api/test/sigin",
                 headers: {
                     Accept: "application/json",
                 },
