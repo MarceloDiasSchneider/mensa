@@ -17907,7 +17907,7 @@ var _hoisted_24 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
 }, " CANCELLA "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
   type: "submit",
   "class": "btn btn-success w-25"
-}, " CONFIRMA ")], -1
+}, " CONFERMA ")], -1
 /* HOISTED */
 );
 

@@ -153,7 +153,7 @@
                                 CANCELLA
                             </button>
                             <button type="submit" class="btn btn-success w-25">
-                                CONFIRMA
+                                CONFERMA
                             </button>
                         </div>
                     </form>
