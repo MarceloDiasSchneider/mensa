@@ -17234,7 +17234,7 @@ __webpack_require__.r(__webpack_exports__);
 
       var config = {
         method: "post",
-        url: "/api/test/sidebar-links",
+        url: "/public/api/test/sidebar-links",
         headers: {
           Accept: "application/json"
         }
@@ -17385,13 +17385,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _TheSidebar_vue_vue_type_template_id_1e47b88e__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./TheSidebar.vue?vue&type=template&id=1e47b88e */ "./resources/src/vue-views/dashboard/components/TheSidebar.vue?vue&type=template&id=1e47b88e");
 /* harmony import */ var _TheSidebar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./TheSidebar.vue?vue&type=script&lang=js */ "./resources/src/vue-views/dashboard/components/TheSidebar.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_projects_mensa_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_Users_marce_OneDrive_rea_de_Trabalho_mensa_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_projects_mensa_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_TheSidebar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_TheSidebar_vue_vue_type_template_id_1e47b88e__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/src/vue-views/dashboard/components/TheSidebar.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_Users_marce_OneDrive_rea_de_Trabalho_mensa_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_TheSidebar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_TheSidebar_vue_vue_type_template_id_1e47b88e__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/src/vue-views/dashboard/components/TheSidebar.vue"]])
 /* hot reload */
 if (false) {}
 

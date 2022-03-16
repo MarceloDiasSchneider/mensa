@@ -17230,7 +17230,7 @@ __webpack_require__.r(__webpack_exports__);
 
       var config = {
         method: "get",
-        url: "/api/test/typologies",
+        url: "/public/api/test/typologies",
         headers: {
           Accept: "application/json"
         }
@@ -17798,7 +17798,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _MenuComposition_vue_vue_type_template_id_53c97b10_scoped_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./MenuComposition.vue?vue&type=template&id=53c97b10&scoped=true */ "./resources/src/vue-views/MenuComposition.vue?vue&type=template&id=53c97b10&scoped=true");
 /* harmony import */ var _MenuComposition_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./MenuComposition.vue?vue&type=script&lang=js */ "./resources/src/vue-views/MenuComposition.vue?vue&type=script&lang=js");
 /* harmony import */ var _MenuComposition_vue_vue_type_style_index_0_id_53c97b10_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./MenuComposition.vue?vue&type=style&index=0&id=53c97b10&scoped=true&lang=css */ "./resources/src/vue-views/MenuComposition.vue?vue&type=style&index=0&id=53c97b10&scoped=true&lang=css");
-/* harmony import */ var C_xampp_htdocs_projects_mensa_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_Users_marce_OneDrive_rea_de_Trabalho_mensa_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
@@ -17806,7 +17806,7 @@ __webpack_require__.r(__webpack_exports__);
 ;
 
 
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_projects_mensa_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_MenuComposition_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_MenuComposition_vue_vue_type_template_id_53c97b10_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-53c97b10"],['__file',"resources/src/vue-views/MenuComposition.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_Users_marce_OneDrive_rea_de_Trabalho_mensa_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_MenuComposition_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_MenuComposition_vue_vue_type_template_id_53c97b10_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-53c97b10"],['__file',"resources/src/vue-views/MenuComposition.vue"]])
 /* hot reload */
 if (false) {}
 
