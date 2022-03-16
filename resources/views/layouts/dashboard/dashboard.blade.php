@@ -29,7 +29,7 @@
     <div class="row flex-nowrap">
       <div id="vueThesidebar" class="col-auto col-md-3 col-xl-2 px-sm-2 px-0 bg-c-blue-dark">
         <Thesidebar 
-          src_logo="{{ asset('public/storage/img/logo.png') }}"
+          src_logo="{{ asset('storage/img/logo.png') }}"
           active_sidebar="@php echo $active_sidebar; @endphp"
         />
       </div>

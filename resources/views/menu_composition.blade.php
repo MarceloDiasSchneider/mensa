@@ -5,7 +5,7 @@
 
 @section('content')
 <div id="vueMenuComposition">
-  <Menucomposition src_logo="{{ asset('public/storage/img/logo-dark.png') }}" />
+  <Menucomposition src_logo="{{ asset('storage/img/logo-dark.png') }}" />
 </div>
 
 @endsection

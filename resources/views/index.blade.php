@@ -24,7 +24,7 @@
 
 <body class="bg-c-blue-dark text-white p-5">
       <div class="d-flex align-items-center flex-column py-5">
-        <img src="{{ asset('public/storage/img/logo.png') }}" alt="Logo" width="150">
+        <img src="{{ asset('storage/img/logo.png') }}" alt="Logo" width="150">
         <h1 class="mt-3">Benvenuto (nome azienda)</h1>
         <p class="h4 text-c-silver-ligth my-2">Identificati tramite badge e prendi lo scontrino per ritirare il pranzo</p>
       </div>  
